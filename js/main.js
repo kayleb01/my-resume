@@ -88,6 +88,7 @@ $(document).ready(function(){
         },
         dataType: "json",
         success: function (data) {
+          console.log(data);
           if (data.response == "success") {
             $("#contactSuccess").fadeIn(300);
             $("#contactError").addClass("hidden");

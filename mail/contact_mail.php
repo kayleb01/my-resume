@@ -53,8 +53,6 @@ if(!empty($_POST)){
 		$body = join('<br>', $bodyMessage);
 		$mail->Body = $body;
 
-		echo $body;
-
 		if($mail->send()){
 			http_response_code(200);
 			echo json_encode(['response' => 'success']);

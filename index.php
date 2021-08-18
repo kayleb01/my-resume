@@ -269,20 +269,14 @@
 
             <!-- SECTION ITEM -->
             <div class="line row">
-              <!-- Margin Collums (necessary for the timeline effect) -->
               <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
               <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-work " style="height: 164px;"></div>
-              <!-- /Margin Collums -->
-              <!-- Item Content -->
+              
               <div class="col-md-8 content-wrap bg1">
                 <div class="line-content line-content-education">
-                  <!-- Work Place -->
                   <h3 class="section-item-title-1">Bigstack Technologies Calabar</h3>
-                  <!-- /work place -->
-                  <!-- Graduation time -->
+               
                   <h4 class="job"><i class="fa fa-flag"></i> Fullstack Developer - <span class="job-date">November 2020 - Present</span></h4>
-                  <!-- /Graduation time -->
-                  <!-- content -->
                   <div class="job-description">
                     <p>
                     	<ul class="list-group">
