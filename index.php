@@ -673,7 +673,7 @@
                     <!-- Portfolio item -->
                     <div class="portfolio-item" style="float: left; list-style: none; position: relative; margin-right: 5px; width: 200px;">
                       <!-- Link to the item image (Put the long description on  "a" title)-->
-                      <a href="xtreemforum.com" title="Xtreemforum.com" class="nivobox" data-lightbox-gallery="portfolio">
+                      <a href="https://xtreemforum.com" target="_blank" title="Xtreemforum.com" class="nivobox" data-lightbox-gallery="portfolio">
                         <div class="hover">
                           <p class="zoomi"><i class="fa fa-search"></i></p>
                           <!-- Item short title -->
@@ -693,7 +693,7 @@
                     <!-- Portfolio item -->
                     <div class="portfolio-item" style="float: left; list-style: none; position: relative; margin-right: 5px; width: 200px;">
                       <!-- Link to the item image (Put the long description on  "a" title)-->
-                      <a href="app.olowoex.com" title="app.olowoex.com" class="nivobox" data-lightbox-gallery="portfolio">
+                      <a href="http://app.olowoex.com" title="app.olowoex.com" target="_blank" class="nivobox" data-lightbox-gallery="portfolio">
                         <div class="hover">
                           <p class="zoomi"><i class="fa fa-search"></i></p>
                           <!-- Item short title -->
