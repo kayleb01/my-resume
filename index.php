@@ -1,7 +1,7 @@
 <?php session_start()?>
 <!DOCTYPE html>
 <!-- saved from url=(0046)http://www.dotrex.co/vertica/themes/james.html -->
-<html lang="en" class="webkit chrome linux js nivo-lightbox-notouch" style="overflow: hidden;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en" class="webkit chrome linux js nivo-lightbox-notouch" style="overflow: hidden visible;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
   <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -944,4 +944,5 @@
 <script src="./js/main.js"></script>
 
 
-<div id="ascrail2000" class="nicescroll-rails" style="width: 12px; z-index: auto; position: fixed; top: 0px; height: 100%; right: 0px; opacity: 0.8; cursor: default; border-radius: 10px;"><div style="position: relative; float: right; background-color: rgb(0, 0, 0); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 10px; width: 6px; height: 137px; top: 136px;"></div></div><div id="ascrail2000-hr" class="nicescroll-rails" style="height: 12px; z-index: auto; position: fixed; left: 0px; width: 100%; bottom: 0px; opacity: 0.8; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 10px; background-color: rgb(0, 0, 0); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 10px; width: 1440px;"></div></div></body></html>
+
+</html>
