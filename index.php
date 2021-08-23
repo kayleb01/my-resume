@@ -688,6 +688,24 @@
                         </div>                        
                       </a>
                     </div>
+
+                    <div class="portfolio-item" style="float: left; list-style: none; position: relative; margin-right: 5px; width: 200px;">
+                      <!-- Link to the item image (Put the long description on  "a" title)-->
+                      <a href="https://blood-hq.netlify.app/#/" target="_blank" title="bloodhq.com" class="nivobox" data-lightbox-gallery="portfolio">
+                        <div class="hover">
+                          <p class="zoomi"><i class="fa fa-search"></i></p>
+                          <!-- Item short title -->
+                          <p class="portfolio-item-title">BloodHQ </p>
+                        </div>
+                        <div class="hover-bg-wrapper">
+                          <div class="hover-bg"></div>
+                        </div>
+                        <div class="portfolio-item-thumbnail">
+                          <!-- Thumbnail of the portfolio image (400x360 for retina display) -->
+                          <img src="/img/bloodhq.png" alt="">
+                        </div>                        
+                      </a>
+                    </div>
                     <!-- /Portfolio item -->  
 
                     <!-- Portfolio item -->
