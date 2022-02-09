@@ -52,7 +52,6 @@
 
     <!-- Header Colors -->
     <div class="col-md-12 col-sm-12 d-inline clearfix">
-      <div class="pull-left"> <img src="/img/i4g_logo.png" width="20%" height="50%"></div>
       <div class="top-color top-color1"></div>
       <div class="top-color top-color2"></div>
     </div>
@@ -61,13 +60,7 @@
     <!-- Beginning of Content -->
     <div class="col-md-12 col-sm-12 resume-container">
       
-      <!-- Header Buttons -->
-      <div class="row">
-        <div class="header-buttons col-md-10 col-md-offset-1">
-          <a href="https://internship.zuri.team" class=""><img src="/img/zuri_logo.png" width="20%" height="50%"><span class="btn-hide-text"></span></a>
-          <a href="#" class=""><img src="/img/hng_logo.png" width="15%" height="10%"></a>
-        </div>
-      </div>
+  
 
       <!-- =============== PROFILE INTRO ====================-->
       <div class="profile-intro row">
@@ -290,9 +283,53 @@
                     		<li class="list-item">
                     			Maintain and improve backend infrastructures, refactore existing codebase and  worked on product updates/
                     		</li>
+                        <li class="list-item"> Added more features to existing web applications</li>
+                       <li class="list-item">Improved database design</li>
+                       <li class="list-item">Improved system architecture</li>
+                       <li class="list-item">Added CI/CD pipeline</li>
+                       <li class="list-item">Backend infrastructures, code fixes and system updates</li>
                     	</ul>
                     	
                     </p>
+                  </div>
+                  <!-- /Content -->
+                </div>
+              </div>
+              <!-- /Item Content -->
+              <!-- Margin Collum-->
+              <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
+              <!-- /Margin Collum-->
+            </div>
+
+            <div class="line row">
+              <!-- Margin Collums (necessary for the timeline effect) -->
+              <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
+              <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-work " style="height: 164px;"></div>
+              <div class="col-md-8 content-wrap bg1">
+                <div class="line-content line-content-education">
+                  <!-- Work Place -->
+                  <h3 class="section-item-title-1">Zuri Chat - Open Source Project (HNG i8 Finalist)</h3>
+                  <h4 class="job"><i class="fa fa-flag"></i> Backend Developer - <span class="job-date">August 2021 - October 2021</span></h4>
+                  <div class="job-description">
+                	<ul class="list-group">
+                		<li class="list--item">Collaborated with other backend engineers to design the System Architecture</li>
+                		<li class="list--item">
+                		Collaborated with other engineers to migrate designated plugin to Single-spa mode
+                		</li>
+                		<li class="list--item">
+                    Collaborate with other backend engineers on Database design
+                		</li>
+                    <li class="list--item">
+                    Code review - I was one of the quality assurance engineer who reviews all PR on Github
+                		</li>
+                    <li class="list--item">
+                    Designed and implemented plugin integration with the full application                		
+                  </li>
+                  <li class="list--item">
+                    Collaborated with other engineer to integrate Centrifugo real-time update system                		
+                  </li>
+                	</ul>
+                
                   </div>
                   <!-- /Content -->
                 </div>
@@ -566,7 +603,7 @@
               <div class="col-md-8 content-wrap bg1">
                 <div class="line-content">
                   <!-- Subtitle -->
-                  <h3 class="section-item-title-1">Open Source Develop</h3>
+                  <h3 class="section-item-title-1">Open Source Development</h3>
                 </div>
                  <br>
                 <br>
@@ -706,23 +743,57 @@
                         </div>                        
                       </a>
                     </div>
-                    <!-- /Portfolio item -->  
 
-                    <!-- Portfolio item -->
                     <div class="portfolio-item" style="float: left; list-style: none; position: relative; margin-right: 5px; width: 200px;">
                       <!-- Link to the item image (Put the long description on  "a" title)-->
-                      <a href="http://app.olowoex.com" title="app.olowoex.com" target="_blank" class="nivobox" data-lightbox-gallery="portfolio">
+                      <a href="https://gerocare.org" target="_blank" title="gerocare.org" class="nivobox" data-lightbox-gallery="portfolio">
                         <div class="hover">
                           <p class="zoomi"><i class="fa fa-search"></i></p>
                           <!-- Item short title -->
-                          <p class="portfolio-item-title"><strong>Organisation management app for daimond masjid</p>
+                          <p class="portfolio-item-title">Gerocare Offical website</p>
                         </div>
                         <div class="hover-bg-wrapper">
                           <div class="hover-bg"></div>
                         </div>
                         <div class="portfolio-item-thumbnail">
                           <!-- Thumbnail of the portfolio image (400x360 for retina display) -->
-                          <img src="./img/masjid.png" alt="">
+                          <img src="/img/gerocare.png" alt="">
+                        </div>                        
+                      </a>
+                    </div>
+                    <!-- /Portfolio item -->  
+                    <div class="portfolio-item" style="float: left; list-style: none; position: relative; margin-right: 5px; width: 200px;">
+                      <!-- Link to the item image (Put the long description on  "a" title)-->
+                      <a href="https://direshop777.com" target="_blank" title="Direshop " class="nivobox" data-lightbox-gallery="portfolio">
+                        <div class="hover">
+                          <p class="zoomi"><i class="fa fa-search"></i></p>
+                          <!-- Item short title -->
+                          <p class="portfolio-item-title">Direshop Offical website</p>
+                        </div>
+                        <div class="hover-bg-wrapper">
+                          <div class="hover-bg"></div>
+                        </div>
+                        <div class="portfolio-item-thumbnail">
+                          <!-- Thumbnail of the portfolio image (400x360 for retina display) -->
+                          <img src="/img/direshop.png" alt="">
+                        </div>                        
+                      </a>
+                    </div>
+                    <!-- Portfolio item -->
+                    <div class="portfolio-item" style="float: left; list-style: none; position: relative; margin-right: 5px; width: 200px;">
+                      <!-- Link to the item image (Put the long description on  "a" title)-->
+                      <a href="https://bigstacktech.com" title="Bigstack Technologies" target="_blank" class="nivobox" data-lightbox-gallery="portfolio">
+                        <div class="hover">
+                          <p class="zoomi"><i class="fa fa-search"></i></p>
+                          <!-- Item short title -->
+                          <p class="portfolio-item-title"><strong>Organisation website for Bigstack technologies</p>
+                        </div>
+                        <div class="hover-bg-wrapper">
+                          <div class="hover-bg"></div>
+                        </div>
+                        <div class="portfolio-item-thumbnail">
+                          <!-- Thumbnail of the portfolio image (400x360 for retina display) -->
+                          <img src="./img/bigstack.png" alt="">
                         </div>                        
                       </a>
                     </div>                  
@@ -790,9 +861,9 @@
                       <!-- Contact form -->
                       <?php if (!empty($_SESSION['errors'])) {?>
                         <div class="alert alert-danger">
-                            <?php foreach ($_SESSION['errors'] as $error){
-                              echo $error."<br>";
-                            }?>
+                            <?php foreach ($_SESSION['errors'] as $error) {
+    echo $error."<br>";
+}?>
 
                         </div>
                       <?php session_destroy();}?>
